@@ -21,6 +21,8 @@ mongoose.connect(MONGODB_URI, {
   useFindAndModify: false
 });
 
+//mongoose.connection.dropDatabase();
+
 // routes
 app.use(require("./routes/api.js"));
 
