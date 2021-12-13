@@ -19,7 +19,7 @@
     <a href="https://github.com/jsun994/pwa-bt"><strong>Explore the docs »</strong></a>
     <br />
     <br />
-    <a href="">View Demo</a>
+    <a href="https://bt-pwa.herokuapp.com/">View Demo</a>
     ·
     <a href="https://github.com/jsun994/pwa-bt/issues">Report Bug</a>
     ·
@@ -54,7 +54,7 @@
 ## About The Project
 
 ![media1](./media/ss1.png)
-Demo - [Heroku]()
+Demo - [Heroku](https://bt-pwa.herokuapp.com/)
 
 ### Built With
 
