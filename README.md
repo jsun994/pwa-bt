@@ -21,7 +21,7 @@
     <br />
     <a href="">View Demo</a>
     ·
-    <a href="hhttps://github.com/jsun994/pwa-bt/issues">Report Bug</a>
+    <a href="https://github.com/jsun994/pwa-bt/issues">Report Bug</a>
     ·
     <a href="https://github.com/jsun994/pwa-bt/issues">Request Feature</a>
   </p>
